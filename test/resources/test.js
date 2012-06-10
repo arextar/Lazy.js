@@ -1,0 +1,1 @@
+ok(true, "Load JavaScript file")

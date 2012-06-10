@@ -1,0 +1,1 @@
+ok(window.b, "Third script after second")
