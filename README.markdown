@@ -1,5 +1,5 @@
 # Lazy.js
-A simple and useful resource loader for JavaScript. It supports loading CSS and JavaScript out of the box, but it has XMLHttpRequest capabilities and is easily extendable, allowing the adding of other resource loaders such as images and CoffeeScript.
+A simple and useful resource loader for JavaScript. It supports loading CSS and JavaScript out of the box, but it has XMLHttpRequest capabilities and is easily extendable, allowing the addition of other resource loaders such as images and CoffeeScript.
 
 # How to use
 ## lazy(resources... [, options] [, callback])
